@@ -22,7 +22,7 @@ Configurar em `config/database.yml` usuário e senha local da base de dados.
 
 - `rails db:create db:migrate`
 
-- `rails s -p 3000 -b '0.0.0.0'`
+- `rails s`
 
 ### Criando o Webhook
 
